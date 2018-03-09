@@ -1,0 +1,20 @@
+{
+  "name": "Empty_Nodejs_Server_Templet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.0",
+    "typescript": "^2.5.3",
+    "websocket": "^1.0.25"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.46",
+    "@types/websocket": "^0.0.34"
+  }
+}

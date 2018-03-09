@@ -1,0 +1,7 @@
+bin-debug/
+bin-release/
+.wing/
+.vscode/
+.idea/
+node_modules/
+out/
